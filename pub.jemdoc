@@ -1,0 +1,28 @@
+# jemdoc: menu{Menu}{pub.html}
+
+
+== Publications
+~~~
+{Conferences}\n
+
+- Tinne De Laet, Max Boegli, Keivan Zavari, Joris De Schutter. [http://people.mech.kuleuven.be/~jdeschut/mobileCartProject/ Conceptual learning of control and state estimation through a mobile cart project], 41th SEFI Conference, Leuven, Belgium.
+
+- Keivan Zavari, Goele Pipeleers, Jan Swevers. [Papers/BENELUX2013.pdf Matrix Sum of Squares Relaxations for LPV System Analysis], 	Benelux Meeting on Systems and Control, Houffalize, 2013.
+
+- Keivan Zavari, Goele Pipeleers, Jan Swevers. [Papers/MSC2012.pdf Multi-Hinf Controller Design and Illustration on an Overhead Crane], IEEE Multi-Conference on Systems and Control, Dubrovnik, 2012.
+
+- Keivan Zavari, Goele Pipeleers, Jan Swevers. [Papers/AMC2012.pdf Interpolated gain-scheduled controllers for an Over-head Crane], Advanced Motion Control conference, Sarajevo, 2012.
+
+- Keivan Zavari, Hamid Khatibi, Vahid Johari Majd, Goele Pipeleers, Jan Swevers. [http://people.mech.kuleuven.be/~u0065837/Papers/ACC2011.pdf Fixed-order robust controller design with time-domain constraints], American Control Conference, San Francisco, 2011. 
+
+- Allahyar Montazeri, Keivan Zavari, Javad Poshtan, Alireza Roosta. [http://www.ifac-papersonline.net/Detailed/36316.html Fast-array implementation of adaptive IIR filter in feed-forward active noise and vibration control],  IFAC World Congress, Seul, 2008.
+
+~~~
+
+
+~~~
+{Journals}\n
+
+- Keivan Zavari, Goele Pipeleers, Jan Swevers. [Papers/TIE2013.pdf Gain-scheduled controller design: illustration on an overhead crane], IEEE Transactions on Industrial Electronics, To appear.
+
+~~~
