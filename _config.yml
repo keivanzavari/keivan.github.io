@@ -25,8 +25,8 @@ github_username:  keivanzavari
 # Build settings
 markdown: kramdown
 
-#theme: minima
-theme: jekyll-theme-minimal
+theme: minima
+#theme: jekyll-theme-minimal
 gems:
   - jekyll-feed
 exclude:
