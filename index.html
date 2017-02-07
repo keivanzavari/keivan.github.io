@@ -1,0 +1,17 @@
+---
+layout: home
+---
+
+<section id="about">
+	<div class="container">
+	  <div class="avatar">
+		<img class="img-circle" src="{{ site.baseurl }}static/img/{{ site.avatar }}" alt="Responsive image">
+	  </div>
+	  <h3>Hi. I'm <strong>{{ site.author }}</strong>, a Control engineer / Roboticist. I love computer science, maths and technology.</h3>
+	  <h3>Here you can find some of my personal <a href="{{ site.baseurl }}projects.html"> projects</a>
+	  and a more detailed academic &amp; professional <a href="{{ site.baseurl }}resume/index.html">resume</a>.</h3>
+	  <h3>Feel free to contact me by <a href="mailto:{{ site.email }}">email</a>.</h3> 
+	  <!-- at <a href="http://twitter.com/{{ site.twitter }}">@{{ site.twitter }}</a> or -->
+	  {% include social.html %}
+	</div>
+</section>
