@@ -5,7 +5,6 @@ Personal blog/website built with jekyll and theme sustain
 
 
 ## Sustain
-[Sustain Live Demo](https://biomadeira.github.io/sustain)
 
 [![Build Status](https://secure.travis-ci.org/biomadeira/sustain.png?branch=gh-pages)](http://travis-ci.org/biomadeira/sustain)
 [![Ruby](https://img.shields.io/badge/ruby-2.1,_2.2-blue.svg?style=flat)](http://travis-ci.org/biomadeira/sustain)
