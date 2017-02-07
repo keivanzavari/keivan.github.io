@@ -16,6 +16,6 @@ You can find the source code for Jekyll at
 
 Resume
 {% include icon-github.html username="jekyll" %} /
-[jekyll](https://keivanzavari.github.io/resume/index.html)
+[jekyll](resume/index.html)
 
 
