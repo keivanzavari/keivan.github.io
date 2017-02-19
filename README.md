@@ -16,7 +16,7 @@ hosted in [Github pages](https://pages.github.com/).
 
 ## View the live demo
 
-[Obviously this website is also a demo](https://keivanzavari.github.io/)
+[Obviously my website is also a demo](https://keivanzavari.github.io/)
 
 [Original sustain Live Demo](https://biomadeira.github.io/sustain)
 
