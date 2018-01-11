@@ -6,7 +6,7 @@ Personal blog/website built with jekyll and theme sustain
 
 ## Sustain
 
-[Build Status]()
+
 [![Build Status](https://travis-ci.org/myJekyll/sustain.svg?branch=gh-pages)](https://travis-ci.org/myJekyll/sustain.svg?branch=gh-pages)
 
 <!-- [![Ruby](https://img.shields.io/badge/ruby-2.1,_2.2-blue.svg?style=flat)](http://travis-ci.org/biomadeira/sustain)
