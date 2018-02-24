@@ -3,17 +3,17 @@ highlighter: rouge
 markdown: kramdown
 rdiscount:
   extensions: [smart]
-permalink: /:title.html
+# permalink: /:title.html
 paginate: 5
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 port: 3000
 safe: true
 
 
 # edit here to achieve your personal greatness
 url: http://keivanzavari.github.io/
-baseurl: /
-title: Keivan
+baseurl: ""
+title: Personal website
 author: Keivan Zavari
 description: Personal blog and resume
 avatar: profile.png
@@ -22,7 +22,7 @@ github: keivanzavari # username
 #twitter: don't have one
 linkedin: keivanzavari
 #stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
+#Comment out if you don't want disqus
 disqus: username
 google_analytics: UA-1
 
