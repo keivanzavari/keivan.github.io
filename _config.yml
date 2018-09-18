@@ -3,7 +3,7 @@ highlighter: rouge
 markdown: kramdown
 rdiscount:
   extensions: [smart]
-# permalink: /:title.html
+permalink: /:title.html
 paginate: 5
 plugins: [jekyll-paginate]
 port: 3000
@@ -17,7 +17,7 @@ title: Personal website
 author: Keivan Zavari
 description: Personal blog and resume
 avatar: profile.png
-email: keivan dot zavari @ frsrobotics.com
+email: keivan dot zavari at sign googlem doot com
 github: keivanzavari # username
 #twitter: don't have one
 linkedin: keivanzavari
